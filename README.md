@@ -12,7 +12,7 @@ In this project, Japanese import-export trade was analyzed with various countrie
    1.2 Create a Maven project and export it to jar.You can also do this using Eclipse
 
 2. Run the compiled jar file using the following command 
-Hadoop jar application.jar App <input files locations> <output files location>
+Hadoop jar application.jar App inputFiles outputLocation
 
 3. Multiple folders will be created under output
 
