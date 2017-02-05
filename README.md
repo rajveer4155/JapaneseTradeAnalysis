@@ -11,8 +11,8 @@ In this project, Japanese import-export trade was analyzed with various countrie
    1.1 Compile the code into jar file and copy input files to hdfs 
    1.2 Create a Maven project and export it to jar.You can also do this using Eclipse
 
-2. Run the compiled jar file using the following command 
-Hadoop jar application.jar App inputFiles outputLocation
+2. Run the compiled jar file using the following command:
+ $ hadoop jar application.jar App inputFiles outputLocation
 
 3. Multiple folders will be created under output
 
