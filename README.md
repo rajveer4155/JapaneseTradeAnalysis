@@ -1,6 +1,6 @@
 ## Japanese Trade Analysis using Hadoop and Map-Reduce Java
 
-In this project, Japanese import-export trade was analyzed with various countries across the globe using 28 years of historic trade data and future prediction is made for the top trade countries.
+In this project, Japanese import-export trade was analyzed with various countries across the globe using 28 years of historic trade data and future prediction is made for the top trade countries.It was successfully tested on 4 Node Hadoop Cluster on AWS.
 
 ### Dataset Link: https://www.kaggle.com/zanjibar/japan-trade-statistics
 
